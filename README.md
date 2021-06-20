@@ -1,5 +1,5 @@
 # nginx-controller
-It's the controller to create resources thar outputs message you set on manifest with 'Hello'.
+It's the controller to create resources that manage the deploymet which have latest nginx image.
 
 ## deploy
 Before deploy the resources, you need to execute the commands below.
