@@ -38,4 +38,5 @@ nginx-sample   test         3                   3/3
 
 % kubectl get deploy
 NAME   READY   UP-TO-DATE   AVAILABLE   AGE
+test   3/3     3            3           3m27s
 ```
